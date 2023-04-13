@@ -2,10 +2,11 @@
 
 # this variable has to be set but it is not used
 # inside the templates (end in '/')
-base_url = "https://coderefinery.github.io/template-workshop-webpage/"
+base_url = "https://coderefinery.github.io/2023-05-09-uppsala/"
 
 # When adapting the title, do not forget to also adjust base_url above
-title = "Replace this title in config.toml"
+title = "CodeRefinery workshop in Uppsala, May 9-11, 2023"
+description = "Free workshop on git, testing, documentation, and more in a workshop - targeted towards researchers and scientists."
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -45,8 +46,8 @@ logos = [
 ]
 
 # adapt this
-registration_link = "https://example.org"
-source_repo = "https://github.com/coderefinery/template-workshop-webpage"
+registration_link = "https://indico.neic.no/e/coderefinery-may-2023"
+source_repo = "https://github.com/coderefinery/2023-05-09-uppsala"
 
 # uncomment as soon as registration opens
 # registration_is_open = true
