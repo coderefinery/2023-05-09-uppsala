@@ -46,11 +46,11 @@ logos = [
 ]
 
 # adapt this
-registration_link = "https://indico.neic.no/e/coderefinery-may-2023"
+registration_link = "https://forms.gle/sPx6MdPfL3kqjkbT6"
 source_repo = "https://github.com/coderefinery/2023-05-09-uppsala"
 
 # uncomment as soon as registration opens
-# registration_is_open = true
+registration_is_open = true
 
 # uncomment as soon as registration closes
 # registration_is_closed = true
