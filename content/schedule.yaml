@@ -64,7 +64,7 @@ schedule:
         ends: 12:30
         title: Software testing
         url: https://coderefinery.github.io/testing/
-        presenters: Testing
+        presenters: Johan
       - starts: 12:30
         ends: 14:00
         title: Modular code development
